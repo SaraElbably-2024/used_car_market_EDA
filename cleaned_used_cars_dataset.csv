@@ -93,7 +93,7 @@ CAR-52499,Skoda,Octavia,2013,190800.0,Manual,Petrol,1800.0,Sedan,Silver,Assiut,D
 CAR-52169,Hyundai,Tucson,2016,105000.0,Automatic,Petrol,1600.0,SUV,Red,Mansoura,Individual,No,2.0,Fair,17.0,565000,Yes
 CAR-50462,Nissan,Sunny,2024,34300.0,Manual,Petrol,1500.0,Sedan,Black,Alexandria,Dealer,Yes,1.0,Good,16.0,667000,No
 CAR-51637,Kia,Cerato,2017,156200.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo,Dealer,No,3.0,Good,13.0,411000,No
-CAR-50816,Mitsubishi,Lancer,2023,36800.0,Mt,Petrol,1600.0,Sedan,Grey,Banha,Individual,No,1.0,Excellent,11.0,491000,No
+CAR-50816,Mitsubishi,Lancer,2023,36800.0,Manual,Petrol,1600.0,Sedan,Grey,Banha,Individual,No,1.0,Excellent,11.0,491000,No
 CAR-50967,Chery,Tiggo 7,2013,178400.0,Automatic,Petrol,1600.0,SUV,Silver,Assiut,Individual,No,4.0,Good,9.0,277000,No
 CAR-51889,Toyota,Corolla,2020,100300.0,Automatic,Diesel,1600.0,Sedan,Silver,Alexandria,Individual,No,1.0,Fair,11.0,685000,Yes
 CAR-51926,Hyundai,Elantra,2019,83700.0,Automatic,Petrol,2000.0,Sedan,White,Assiut,Individual,No,1.0,Good,6.0,605000,Yes
@@ -201,7 +201,7 @@ CAR-51950,Nissan,Sunny,2018,112800.0,Unknown,Hybrid,1500.0,Sedan,Blue,Alexandria
 CAR-50499,Mercedes-Benz,C200,2018,130900.0,Automatic,Hybrid,1600.0,Sedan,White,Tanta,Individual,No,1.0,Good,9.0,1325000,Yes
 CAR-50742,Kia,Cerato,2016,157900.0,Automatic,Petrol,1600.0,Sedan,White,Banha,Individual,Yes,2.0,Good,10.0,360000,No
 CAR-52514,Hyundai,Elantra,2016,172600.0,Manual,Petrol,1600.0,Sedan,Beige,Giza,Individual,No,2.0,Excellent,16.0,377000,No
-CAR-52759,Kia,Cerato,2023,48500.0,Mt,Petrol,1600.0,Sedan,Silver,Port Said,Dealer,No,1.0,Good,10.0,748000,Yes
+CAR-52759,Kia,Cerato,2023,48500.0,Manual,Petrol,1600.0,Sedan,Silver,Port Said,Dealer,No,1.0,Good,10.0,748000,Yes
 CAR-51439,MG,Zs,2016,106600.0,Automatic,Petrol,1500.0,SUV,Silver,Cairo,Individual,No,1.0,Excellent,11.0,421000,No
 CAR-50587,MG,Zs,2021,73400.0,Automatic,Hybrid,1500.0,SUV,Grey,Giza,Individual,No,1.0,Excellent,9.0,970000,No
 CAR-52712,BMW,320i,2016,160500.0,Automatic,Petrol,2000.0,Sedan,Silver,Cairo,Individual,No,2.0,Good,11.0,816000,No
@@ -256,13 +256,13 @@ CAR-50785,Renault,Logan,2016,135900.0,Manual,Petrol,1600.0,Sedan,Red,Suez,Indivi
 CAR-51798,MG,Zs,2024,36900.0,Automatic,Hybrid,1500.0,SUV,Red,Assiut,Individual,No,1.0,Good,9.0,1119000,No
 CAR-52326,Hyundai,Elantra,2020,92300.0,Automatic,Diesel,1600.0,Sedan,White,Banha,Dealer,No,1.0,Fair,7.0,649000,No
 CAR-50195,Hyundai,Elantra,2023,46700.0,Automatic,Diesel,2000.0,Sedan,White,Giza,Individual,No,1.0,Fair,8.0,914000,Yes
-CAR-51214,Renault,Logan,2015,157400.0,Mt,Petrol,1600.0,Sedan,White,Giza,Individual,Yes,2.0,Poor,8.0,125000,No
+CAR-51214,Renault,Logan,2015,157400.0,Manual,Petrol,1600.0,Sedan,White,Giza,Individual,Yes,2.0,Poor,8.0,125000,No
 CAR-51258,Hyundai,Elantra,2022,60500.0,Automatic,Hybrid,2000.0,Sedan,Black,Port Said,Unknown,No,1.0,Good,0.0,1066000,No
 CAR-52384,Kia,Cerato,2019,109100.0,Automatic,Petrol,1600.0,Sedan,Black,Assiut,Individual,No,1.0,Fair,10.0,478000,Yes
 CAR-52233,Mitsubishi,Lancer,2025,17100.0,Automatic,Diesel,1600.0,Sedan,Unknown,Cairo,Individual,Yes,2.0,Poor,11.0,361000,Yes
 CAR-51253,Chevrolet,Optra,2022,97800.0,Automatic,Petrol,1500.0,Sedan,White,Cairo,Dealer,Yes,2.0,Good,21.0,344000,Yes
 CAR-50294,Hyundai,Elantra,2024,29100.0,Manual,Hybrid,1600.0,Sedan,Silver,Cairo,Individual,No,2.0,Good,11.0,1274000,Yes
-CAR-51808,Hyundai,Elantra,2023,53300.0,Mt,Petrol,2000.0,Sedan,White,Unknown,Individual,No,1.0,Good,8.0,986000,No
+CAR-51808,Hyundai,Elantra,2023,53300.0,Manual,Petrol,2000.0,Sedan,White,Unknown,Individual,No,1.0,Good,8.0,986000,No
 CAR-51226,Kia,Cerato,2017,167800.0,Manual,Diesel,1600.0,Sedan,Silver,Tanta,Individual,No,3.0,Good,8.0,363000,No
 CAR-50428,Hyundai,Elantra,2006,299700.0,Automatic,Petrol,2000.0,Sedan,Unknown,Giza,Dealer,No,4.0,Fair,12.0,196000,Yes
 CAR-51212,Toyota,Corolla,2014,168300.0,Automatic,Petrol,1800.0,Sedan,Silver,Suez,Dealer,No,2.0,Excellent,16.0,435000,No
@@ -309,9 +309,9 @@ CAR-51361,Fiat,Tipo,2016,131900.0,Manual,Petrol,1600.0,Sedan,Blue,Cairo,Individu
 CAR-52059,Chery,Tiggo 7,2011,220100.0,Automatic,Petrol,1600.0,SUV,Beige,Alexandria,Individual,Yes,3.0,Good,9.0,237000,No
 CAR-52491,MG,Zs,2019,109700.0,Automatic,Petrol,1500.0,SUV,Silver,Tanta,Individual,No,2.0,Good,12.0,465000,No
 CAR-50715,Fiat,Tipo,2023,39700.0,Manual,Petrol,1600.0,Sedan,White,Unknown,Individual,No,2.0,Fair,11.0,609000,No
-CAR-52554,Fiat,Tipo,2014,167700.0,Mt,Petrol,1400.0,Sedan,Black,Cairo,Individual,No,2.0,Good,12.0,189000,No
+CAR-52554,Fiat,Tipo,2014,167700.0,Manual,Petrol,1400.0,Sedan,Black,Cairo,Individual,No,2.0,Good,12.0,189000,No
 CAR-52747,Hyundai,Elantra,2014,178900.0,Automatic,Petrol,2000.0,Sedan,White,Cairo,Unknown,No,1.0,Good,12.0,305000,No
-CAR-51904,Chevrolet,Optra,2008,259000.0,Mt,Petrol,1500.0,Sedan,Grey,Alexandria,Individual,No,2.0,Good,5.0,75000,No
+CAR-51904,Chevrolet,Optra,2008,259000.0,Manual,Petrol,1500.0,Sedan,Grey,Alexandria,Individual,No,2.0,Good,5.0,75000,No
 CAR-50732,Mercedes-Benz,C200,2020,89300.0,Automatic,Hybrid,2000.0,Sedan,White,Mansoura,Dealer,No,2.0,Fair,12.0,1574000,Yes
 CAR-51202,BMW,320i,2018,132700.0,Automatic,Petrol,2000.0,Sedan,Silver,Giza,Individual,No,1.0,Excellent,14.0,1184000,No
 CAR-52884,MG,Zs,2018,89200.0,Automatic,Diesel,1500.0,SUV,Grey,Banha,Dealer,No,4.0,Excellent,12.0,530000,No
@@ -349,7 +349,7 @@ CAR-50727,Mitsubishi,Lancer,2024,48000.0,Automatic,Petrol,1600.0,Sedan,Black,Man
 CAR-50954,Toyota,Corolla,2024,39200.0,Automatic,Petrol,1800.0,Sedan,Blue,Cairo,Individual,No,1.0,Good,4.0,1592000,Yes
 CAR-51856,Toyota,Corolla,2024,23300.0,Automatic,Petrol,1800.0,Sedan,Red,Mansoura,Dealer,No,2.0,Good,15.0,1474000,Yes
 CAR-50850,Nissan,Sunny,2021,60100.0,Automatic,Petrol,1500.0,Sedan,Silver,Cairo,Dealer,Yes,1.0,Good,11.0,440000,No
-CAR-52670,Chevrolet,Optra,2012,162500.0,Mt,Petrol,1600.0,Sedan,Unknown,Giza,Individual,No,1.0,Fair,8.0,102000,No
+CAR-52670,Chevrolet,Optra,2012,162500.0,Manual,Petrol,1600.0,Sedan,Unknown,Giza,Individual,No,1.0,Fair,8.0,102000,No
 CAR-51631,Renault,Logan,2021,83200.0,Manual,Petrol,1600.0,Sedan,Black,Tanta,Dealer,N,1.0,Good,11.0,375000,Yes
 CAR-52528,Hyundai,Elantra,2020,95500.0,Automatic,Hybrid,2000.0,Sedan,Unknown,Port Said,Individual,Yes,2.0,Excellent,13.0,658000,Yes
 CAR-51626,Toyota,Corolla,2007,268200.0,Automatic,Diesel,1800.0,Sedan,White,Cairo,Individual,No,3.0,Excellent,0.0,246000,No
@@ -358,7 +358,7 @@ CAR-52373,Fiat,Tipo,2022,39600.0,Manual,Petrol,1400.0,Sedan,Beige,Alexandria,Ind
 CAR-52650,Hyundai,Elantra,2017,130200.0,Automatic,Petrol,2000.0,Sedan,Unknown,Cairo,Dealer,Y,2.0,Excellent,11.0,517000,No
 CAR-51769,Mitsubishi,Lancer,2023,41700.0,Manual,Diesel,1600.0,Sedan,Blue,Alexandria,Dealer,No,2.0,Excellent,17.0,432000,Yes
 CAR-50946,Renault,Logan,2017,133000.0,Manual,Petrol,1600.0,Sedan,White,Banha,Dealer,Yes,1.0,Good,10.0,219000,No
-CAR-51369,Chevrolet,Optra,2024,21800.0,Mt,Diesel,1500.0,Sedan,Black,Alexandria,Individual,No,1.0,Excellent,11.0,461000,Yes
+CAR-51369,Chevrolet,Optra,2024,21800.0,Manual,Diesel,1500.0,Sedan,Black,Alexandria,Individual,No,1.0,Excellent,11.0,461000,Yes
 CAR-50618,Renault,Logan,2019,99900.0,Manual,Petrol,1600.0,Sedan,Red,Giza,Dealer,No,1.0,Good,11.0,344000,No
 CAR-50359,BMW,320i,2024,32600.0,Automatic,Petrol,2000.0,Sedan,Red,Tanta,Individual,Yes,2.0,Good,6.0,2596000,Yes
 CAR-50679,Hyundai,Elantra,2019,98400.0,Manual,Petrol,2000.0,Sedan,White,Cairo,Individual,Yes,1.0,Good,8.0,500000,No
@@ -377,7 +377,7 @@ CAR-52903,Chevrolet,Optra,2025,3900.0,Automatic,Petrol,1500.0,Sedan,White,Port S
 CAR-52141,MG,Zs,2021,77900.0,Automatic,Hybrid,1500.0,SUV,White,Alexandria,Individual,No,1.0,Excellent,7.0,851000,No
 CAR-52642,Kia,Cerato,2019,93900.0,Manual,Petrol,1600.0,Sedan,Black,Mansoura,Individual,No,1.0,Excellent,14.0,737000,No
 CAR-52632,Toyota,Corolla,2012,220500.0,Automatic,Petrol,1800.0,Sedan,White,Tanta,Individual,No,1.0,Excellent,12.0,321000,No
-CAR-52741,Nissan,Sunny,2018,100500.0,Mt,Petrol,1500.0,Sedan,White,Cairo,Individual,No,2.0,Good,10.0,326000,No
+CAR-52741,Nissan,Sunny,2018,100500.0,Manual,Petrol,1500.0,Sedan,White,Cairo,Individual,No,2.0,Good,10.0,326000,No
 CAR-50215,Chery,Tiggo 7,2019,87900.0,Automatic,Petrol,1500.0,SUV,White,Giza,Individual,No,1.0,Good,8.0,741000,No
 CAR-51918,MG,Zs,2019,125200.0,Unknown,Petrol,1500.0,SUV,White,Cairo,Dealer,No,3.0,Excellent,15.0,627000,Yes
 CAR-50977,Fiat,Tipo,2023,42100.0,Manual,Petrol,1400.0,Sedan,White,Unknown,Individual,No,4.0,Good,5.0,525000,No
@@ -415,9 +415,9 @@ CAR-52342,Nissan,Sunny,2018,107800.0,Manual,Diesel,1500.0,Sedan,Silver,Cairo,Ind
 CAR-51688,Hyundai,Elantra,2022,56500.0,Automatic,Diesel,2000.0,Sedan,Red,Suez,Individual,No,1.0,Good,5.0,856000,Yes
 CAR-50382,Mercedes-Benz,C200,2021,86900.0,Automatic,Petrol,2000.0,Sedan,Silver,Giza,Individual,No,1.0,Good,7.0,2024000,No
 CAR-52806,Hyundai,Elantra,2020,91200.0,Automatic,Petrol,2000.0,Sedan,Silver,Mansoura,Individual,No,2.0,Good,9.0,613000,Yes
-CAR-51250,Toyota,Corolla,2019,111700.0,Mt,Diesel,1800.0,Sedan,White,Giza,Dealer,N,2.0,Good,14.0,723000,No
+CAR-51250,Toyota,Corolla,2019,111700.0,Manual,Diesel,1800.0,Sedan,White,Giza,Dealer,N,2.0,Good,14.0,723000,No
 CAR-50945,Hyundai,Tucson,2016,151700.0,Automatic,Petrol,1600.0,SUV,Silver,Assiut,Individual,No,1.0,Good,8.0,675000,No
-CAR-50082,Mitsubishi,Lancer,2019,98400.0,Mt,Petrol,1600.0,Sedan,Silver,Cairo,Individual,No,2.0,Good,8.0,270000,No
+CAR-50082,Mitsubishi,Lancer,2019,98400.0,Manual,Petrol,1600.0,Sedan,Silver,Cairo,Individual,No,2.0,Good,8.0,270000,No
 CAR-50395,Toyota,Corolla,2021,63500.0,Automatic,Petrol,1800.0,Sedan,White,Alexandria,Individual,No,2.0,Excellent,11.0,1090000,Yes
 CAR-50353,Toyota,Corolla,2017,155400.0,Automatic,Diesel,1800.0,Sedan,Red,Banha,Individual,No,4.0,Good,0.0,546000,No
 CAR-51323,Nissan,Sunny,2021,78500.0,Manual,Diesel,1500.0,Sedan,Blue,Cairo,Dealer,No,3.0,Good,10.0,434000,Yes
@@ -425,7 +425,7 @@ CAR-50411,Toyota,Corolla,2019,107500.0,Manual,Petrol,1600.0,Sedan,White,Giza,Ind
 CAR-52916,Chevrolet,Optra,2012,209700.0,Automatic,Petrol,1500.0,Sedan,Grey,Giza,Individual,No,3.0,Fair,9.0,80000,No
 CAR-51516,Hyundai,Tucson,2018,90000.0,Automatic,Diesel,2000.0,SUV,White,Cairo,Individual,No,4.0,Good,9.0,634000,Yes
 CAR-51088,Skoda,Octavia,2017,119100.0,Automatic,Petrol,1800.0,Sedan,Grey,Alexandria,Individual,No,1.0,Fair,0.0,527000,No
-CAR-51518,Chevrolet,Optra,2025,16300.0,Mt,Diesel,1500.0,Sedan,White,Alexandria,Individual,No,2.0,Fair,7.0,466000,No
+CAR-51518,Chevrolet,Optra,2025,16300.0,Manual,Diesel,1500.0,Sedan,White,Alexandria,Individual,No,2.0,Fair,7.0,466000,No
 CAR-50073,Renault,Logan,2016,151000.0,Manual,Petrol,1600.0,Sedan,Silver,Mansoura,Individual,No,3.0,Fair,10.0,154000,No
 CAR-51765,Fiat,Tipo,2008,238000.0,Manual,Petrol,1600.0,Sedan,Grey,Giza,Individual,No,3.0,Good,11.0,87000,Yes
 CAR-51330,Chevrolet,Optra,2012,128600.0,Manual,Petrol,1600.0,Sedan,White,Tanta,Individual,No,2.0,Fair,12.0,82000,No
@@ -501,7 +501,7 @@ CAR-51581,Hyundai,Elantra,2020,66500.0,Automatic,Petrol,1600.0,Sedan,White,Alexa
 CAR-52829,Chery,Tiggo 7,2023,34000.0,Automatic,Petrol,1500.0,SUV,Silver,Giza,Individual,No,2.0,Good,6.0,1046000,Yes
 CAR-50069,Chevrolet,Optra,2022,56300.0,Automatic,Petrol,1500.0,Sedan,Blue,Giza,Individual,No,1.0,Good,5.0,434000,No
 CAR-50882,Kia,Cerato,2016,138000.0,Automatic,Petrol,1600.0,Sedan,Grey,Giza,Individual,Yes,1.0,Good,7.0,364000,No
-CAR-50030,Fiat,Tipo,2022,39400.0,Mt,Petrol,1600.0,Sedan,Silver,Suez,Individual,N,2.0,Fair,6.0,350000,No
+CAR-50030,Fiat,Tipo,2022,39400.0,Manual,Petrol,1600.0,Sedan,Silver,Suez,Individual,N,2.0,Fair,6.0,350000,No
 CAR-51099,Skoda,Octavia,2022,53800.0,Automatic,Diesel,1800.0,Sedan,White,Port Said,Individual,No,1.0,Excellent,10.0,1371000,No
 CAR-52509,Chevrolet,Optra,2009,216900.0,Automatic,Diesel,1500.0,Sedan,Grey,Giza,Individual,Yes,2.0,Fair,15.0,79000,No
 CAR-52763,Chevrolet,Optra,2025,19200.0,Manual,Petrol,1500.0,Sedan,White,Giza,Individual,Yes,1.0,Good,7.0,369000,No
@@ -590,7 +590,7 @@ CAR-52176,Fiat,Tipo,2023,46000.0,Automatic,Hybrid,1400.0,Sedan,White,Giza,Dealer
 CAR-51982,Skoda,Octavia,2020,70000.0,Automatic,Diesel,1800.0,Sedan,Black,Alexandria,Dealer,No,4.0,Good,11.0,846000,Yes
 CAR-51284,MG,Zs,2021,74200.0,Automatic,Diesel,1500.0,SUV,Grey,Mansoura,Individual,No,1.0,Poor,7.0,572000,No
 CAR-51962,Nissan,Sunny,2018,112500.0,Manual,Petrol,1500.0,Sedan,Grey,Port Said,Unknown,N,2.0,Good,11.0,285000,Yes
-CAR-50759,Hyundai,Elantra,2025,20700.0,Mt,Petrol,2000.0,Sedan,White,Alexandria,Individual,No,1.0,Good,6.0,1041000,Yes
+CAR-50759,Hyundai,Elantra,2025,20700.0,Manual,Petrol,2000.0,Sedan,White,Alexandria,Individual,No,1.0,Good,6.0,1041000,Yes
 CAR-50983,Kia,Cerato,2015,151600.0,Automatic,Diesel,1600.0,Sedan,Grey,Alexandria,Individual,Yes,1.0,Fair,13.0,281000,No
 CAR-50326,Hyundai,Elantra,2024,20700.0,Automatic,Petrol,1600.0,Sedan,Beige,Port Said,Individual,No,1.0,Good,7.0,1016000,Yes
 CAR-52909,Chery,Tiggo 7,2020,93000.0,Automatic,Petrol,1500.0,SUV,Red,Cairo,Dealer,No,1.0,Good,13.0,863000,Yes
@@ -720,7 +720,7 @@ CAR-52516,Nissan,Sunny,2018,123800.0,Automatic,Petrol,1500.0,Sedan,Blue,Cairo,De
 CAR-50615,Kia,Cerato,2020,104900.0,Automatic,Hybrid,1600.0,Sedan,Unknown,Cairo,Individual,No,2.0,Excellent,5.0,674000,No
 CAR-52470,Hyundai,Elantra,2024,32900.0,Automatic,Petrol,1600.0,Sedan,Grey,Alexandria,Individual,No,1.0,Good,11.0,1300000,No
 CAR-50919,Fiat,Tipo,2013,184400.0,Manual,Diesel,1600.0,Sedan,Unknown,Mansoura,Dealer,No,5.0,Fair,11.0,115000,No
-CAR-52243,Hyundai,Elantra,2020,97400.0,Mt,Petrol,1600.0,Sedan,Grey,Giza,Individual,No,1.0,Good,7.0,609000,No
+CAR-52243,Hyundai,Elantra,2020,97400.0,Manual,Petrol,1600.0,Sedan,Grey,Giza,Individual,No,1.0,Good,7.0,609000,No
 CAR-52862,Chevrolet,Optra,2024,22600.0,Automatic,Petrol,1600.0,Sedan,Grey,Port Said,Individual,No,1.0,Excellent,8.0,584000,Yes
 CAR-50255,Chevrolet,Optra,2016,114100.0,Manual,Petrol,1600.0,Sedan,Silver,Alexandria,Dealer,No,3.0,Good,12.0,150000,Yes
 CAR-51725,Hyundai,Elantra,2019,112300.0,Automatic,Petrol,2000.0,Sedan,Unknown,Alexandria,Individual,No,1.0,Good,0.0,564000,No
@@ -796,7 +796,7 @@ CAR-51377,Hyundai,Elantra,2009,218000.0,Automatic,Petrol,2000.0,Sedan,Black,Tant
 CAR-50327,Hyundai,Elantra,2016,150100.0,Automatic,Petrol,1600.0,Sedan,White,Banha,Dealer,No,2.0,Good,10.0,398000,Yes
 CAR-52304,BMW,320i,2013,189000.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,2.0,Fair,16.0,553000,Yes
 CAR-51491,Renault,Logan,2017,117400.0,Manual,Petrol,1600.0,Sedan,Black,Giza,Dealer,No,3.0,Excellent,11.0,267000,Yes
-CAR-50894,Nissan,Sunny,2023,40400.0,Mt,Hybrid,1500.0,Sedan,Silver,Suez,Individual,No,1.0,Fair,7.0,608000,No
+CAR-50894,Nissan,Sunny,2023,40400.0,Manual,Hybrid,1500.0,Sedan,Silver,Suez,Individual,No,1.0,Fair,7.0,608000,No
 CAR-52782,Hyundai,Elantra,2017,145100.0,Automatic,Petrol,2000.0,Sedan,White,Tanta,Individual,No,3.0,Good,9.0,396000,Yes
 CAR-51689,Toyota,Corolla,2022,57350.0,Manual,Petrol,1800.0,Sedan,Unknown,Cairo,Dealer,No,1.0,Excellent,17.0,1005000,Yes
 CAR-51805,Nissan,Sunny,2018,138700.0,Manual,Petrol,1500.0,Sedan,Black,Banha,Individual,Yes,2.0,Fair,10.0,299000,No
@@ -878,7 +878,7 @@ CAR-50834,Chery,Tiggo 7,2025,13900.0,Automatic,Hybrid,1500.0,SUV,Grey,Mansoura,D
 CAR-50642,Hyundai,Tucson,2020,90400.0,Automatic,Diesel,2000.0,SUV,Unknown,Suez,Dealer,No,3.0,Excellent,12.0,970000,Yes
 CAR-52016,MG,Zs,2024,31400.0,Unknown,Petrol,1500.0,SUV,Silver,Alexandria,Individual,No,1.0,Fair,9.0,872000,Yes
 CAR-51771,Hyundai,Elantra,2013,186000.0,Automatic,Petrol,1600.0,Sedan,White,Alexandria,Individual,No,3.0,Good,5.0,274000,Yes
-CAR-50876,Toyota,Corolla,2024,35300.0,Mt,Diesel,1800.0,Sedan,White,Cairo,Individual,No,2.0,Good,10.0,1807000,No
+CAR-50876,Toyota,Corolla,2024,35300.0,Manual,Diesel,1800.0,Sedan,White,Cairo,Individual,No,2.0,Good,10.0,1807000,No
 CAR-52046,Nissan,Sunny,2020,56600.0,Automatic,Petrol,1500.0,Sedan,Black,Cairo,Individual,No,2.0,Fair,6.0,483000,No
 CAR-52170,Kia,Cerato,2023,40800.0,Manual,Diesel,1600.0,Sedan,Grey,Cairo,Dealer,Yes,1.0,Fair,14.0,621000,Yes
 CAR-51677,Kia,Cerato,2023,36700.0,Automatic,Petrol,1600.0,Sedan,Red,Mansoura,Individual,No,1.0,Fair,8.0,854000,Yes
@@ -898,7 +898,7 @@ CAR-52438,Chevrolet,Optra,2020,106700.0,Manual,Petrol,1600.0,Sedan,Grey,Giza,Ind
 CAR-50168,Skoda,Octavia,2020,76800.0,Automatic,Petrol,1800.0,Sedan,White,Alexandria,Individual,No,1.0,Good,11.0,887000,Yes
 CAR-51508,Hyundai,Elantra,2024,31200.0,Automatic,Petrol,1600.0,Sedan,Grey,Mansoura,Individual,Yes,1.0,Fair,17.0,1026000,No
 CAR-50505,Renault,Logan,2015,125600.0,Manual,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,3.0,Fair,15.0,185000,No
-CAR-50246,Nissan,Sunny,2023,53100.0,Mt,Diesel,1500.0,Sedan,Unknown,Cairo,Individual,No,1.0,Good,6.0,697000,No
+CAR-50246,Nissan,Sunny,2023,53100.0,Manual,Diesel,1500.0,Sedan,Unknown,Cairo,Individual,No,1.0,Good,6.0,697000,No
 CAR-51671,Skoda,Octavia,2016,156900.0,Automatic,Petrol,1800.0,Sedan,Grey,Giza,Individual,Y,2.0,Good,8.0,457000,Yes
 CAR-51958,Mercedes-Benz,C200,2024,48000.0,Automatic,Petrol,2000.0,Sedan,Black,Suez,Individual,No,1.0,Poor,10.0,1888000,Yes
 CAR-51360,MG,Zs,2024,27700.0,Automatic,Hybrid,1500.0,SUV,Silver,Banha,Unknown,No,2.0,Good,2.0,1082000,Yes
@@ -962,12 +962,12 @@ CAR-51176,Chevrolet,Optra,2021,63300.0,Manual,Petrol,1600.0,Sedan,Grey,Banha,Ind
 CAR-50868,Toyota,Corolla,2020,57800.0,Automatic,Petrol,1800.0,Sedan,White,Giza,Individual,No,1.0,Good,8.0,923000,No
 CAR-52868,Chery,Tiggo 7,2021,66000.0,Automatic,Petrol,1500.0,SUV,White,Giza,Individual,No,1.0,Poor,13.0,706000,Yes
 CAR-51886,BMW,320i,2021,67900.0,Automatic,Unknown,1600.0,Sedan,Black,Alexandria,Individual,No,1.0,Excellent,3.0,1851000,Yes
-CAR-52765,Chevrolet,Optra,2022,72500.0,Mt,Hybrid,1600.0,Sedan,Beige,Giza,Individual,No,2.0,Good,7.0,320000,No
+CAR-52765,Chevrolet,Optra,2022,72500.0,Manual,Hybrid,1600.0,Sedan,Beige,Giza,Individual,No,2.0,Good,7.0,320000,No
 CAR-52920,Fiat,Tipo,2021,75900.0,Manual,Diesel,1400.0,Sedan,Silver,Giza,Individual,No,1.0,Fair,10.0,367000,No
 CAR-51394,Chery,Tiggo 7,2020,105400.0,Automatic,Petrol,1500.0,SUV,Silver,Giza,Dealer,No,1.0,Good,12.0,725000,Yes
 CAR-51997,Hyundai,Elantra,2017,115800.0,Automatic,Petrol,1600.0,Sedan,Red,Cairo,Individual,No,1.0,Excellent,10.0,673000,No
 CAR-50068,Hyundai,Elantra,2019,91200.0,Automatic,Unknown,2000.0,Sedan,Black,Giza,Dealer,Yes,4.0,Fair,12.0,440000,Yes
-CAR-51277,Chevrolet,Optra,2025,10200.0,Mt,Petrol,1500.0,Sedan,Black,Suez,Individual,No,1.0,Good,4.0,435000,No
+CAR-51277,Chevrolet,Optra,2025,10200.0,Manual,Petrol,1500.0,Sedan,Black,Suez,Individual,No,1.0,Good,4.0,435000,No
 CAR-51784,Renault,Logan,2016,182800.0,Manual,Petrol,1600.0,Sedan,White,Giza,Individual,No,2.0,Good,99.0,194000,No
 CAR-51588,Hyundai,Elantra,2019,121100.0,Automatic,Hybrid,2000.0,Sedan,Grey,Assiut,Individual,No,3.0,Good,8.0,613000,No
 CAR-52907,Kia,Cerato,2024,34300.0,Automatic,Petrol,1600.0,Sedan,Blue,Tanta,Dealer,No,1.0,Excellent,19.0,1034000,Yes
@@ -995,7 +995,7 @@ CAR-52026,BMW,320i,2017,118200.0,Automatic,Petrol,1600.0,Sedan,White,Alexandria,
 CAR-52727,Toyota,Corolla,2018,81000.0,Automatic,Hybrid,1600.0,Sedan,Red,Giza,Individual,Yes,3.0,Fair,11.0,694000,No
 CAR-51879,Nissan,Sunny,2017,146200.0,Automatic,Diesel,1500.0,Sedan,Black,Giza,Individual,No,2.0,Poor,9.0,201000,Yes
 CAR-50102,Chery,Tiggo 7,2022,57350.0,Automatic,Petrol,1500.0,SUV,Grey,Alexandria,Individual,No,1.0,Good,0.0,1331000,No
-CAR-50849,Fiat,Tipo,2013,165400.0,Mt,Petrol,1600.0,Sedan,Grey,Port Said,Individual,Yes,1.0,Good,5.0,127000,Yes
+CAR-50849,Fiat,Tipo,2013,165400.0,Manual,Petrol,1600.0,Sedan,Grey,Port Said,Individual,Yes,1.0,Good,5.0,127000,Yes
 CAR-51666,Renault,Logan,2018,123200.0,Automatic,Hybrid,1600.0,Sedan,White,Alexandria,Dealer,No,2.0,Fair,9.0,278000,No
 CAR-52237,Toyota,Corolla,2021,38000.0,Automatic,Hybrid,1800.0,Sedan,Beige,Port Said,Individual,No,1.0,Poor,9.0,772000,Yes
 CAR-51219,Chery,Tiggo 7,2024,27700.0,Automatic,Diesel,1500.0,SUV,Red,Mansoura,Individual,No,1.0,Good,8.0,1480000,No
@@ -1039,7 +1039,7 @@ CAR-52068,Nissan,Sunny,2025,2200.0,Automatic,Petrol,1500.0,Sedan,Red,Giza,Dealer
 CAR-50275,Hyundai,Elantra,2017,116300.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo,Individual,Yes,2.0,Good,8.0,510000,No
 CAR-51347,Nissan,Sunny,2014,182400.0,Automatic,Petrol,1500.0,Sedan,White,Cairo,Individual,No,3.0,Good,11.0,210000,No
 CAR-50556,Toyota,Corolla,2022,78900.0,Automatic,Petrol,1600.0,Sedan,Grey,Alexandria,Individual,No,1.0,Good,11.0,1305000,Yes
-CAR-50211,Fiat,Tipo,2015,138400.0,Mt,Petrol,1600.0,Sedan,Grey,Mansoura,Individual,Y,2.0,Good,13.0,193000,No
+CAR-50211,Fiat,Tipo,2015,138400.0,Manual,Petrol,1600.0,Sedan,Grey,Mansoura,Individual,Y,2.0,Good,13.0,193000,No
 CAR-52834,Hyundai,Elantra,2024,34100.0,Automatic,Hybrid,2000.0,Sedan,Black,Port Said,Dealer,No,2.0,Fair,13.0,1183000,Yes
 CAR-50607,BMW,320i,2017,140400.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,1.0,Excellent,8.0,886000,Yes
 CAR-52283,Hyundai,Tucson,2019,71000.0,Automatic,Hybrid,1600.0,SUV,Grey,Alexandria,Individual,Yes,1.0,Fair,13.0,945000,No
@@ -1129,7 +1129,7 @@ CAR-50639,Nissan,Sunny,2012,172000.0,Automatic,Petrol,1500.0,Sedan,White,Cairo,D
 CAR-51287,MG,Zs,2024,27700.0,Automatic,Petrol,1500.0,SUV,Black,Cairo,Individual,No,1.0,Good,11.0,1087000,No
 CAR-52215,Nissan,Sunny,2020,60300.0,Manual,Diesel,1500.0,Sedan,Grey,Cairo,Individual,No,1.0,Excellent,13.0,505000,Yes
 CAR-51915,Chevrolet,Optra,2020,84200.0,Automatic,Diesel,1500.0,Sedan,Grey,Banha,Individual,N,4.0,Good,11.0,276000,Yes
-CAR-51733,Chevrolet,Optra,2013,142500.0,Mt,Petrol,1500.0,Sedan,Blue,Giza,Individual,No,4.0,Good,12.0,104000,No
+CAR-51733,Chevrolet,Optra,2013,142500.0,Manual,Petrol,1500.0,Sedan,Blue,Giza,Individual,No,4.0,Good,12.0,104000,No
 CAR-51726,Toyota,Corolla,2025,26500.0,Automatic,Petrol,1800.0,Sedan,Silver,Giza,Dealer,Yes,1.0,Good,12.0,1598000,No
 CAR-51896,Hyundai,Elantra,2015,125200.0,Automatic,Petrol,1600.0,Sedan,Black,Giza,Individual,No,2.0,Good,6.0,355000,Yes
 CAR-52567,Chery,Tiggo 7,2016,157800.0,Automatic,Petrol,1500.0,SUV,Black,Assiut,Individual,No,2.0,Fair,6.0,454000,No
@@ -1184,7 +1184,7 @@ CAR-52618,Nissan,Sunny,2018,112400.0,Automatic,Hybrid,1500.0,Sedan,White,Banha,I
 CAR-52640,Kia,Cerato,2025,15400.0,Automatic,Petrol,1600.0,Sedan,Silver,Cairo,Individual,Yes,1.0,Good,10.0,1008000,Yes
 CAR-51952,Kia,Cerato,2023,42100.0,Automatic,Petrol,1600.0,Sedan,Red,Giza,Individual,No,2.0,Excellent,5.0,1030000,No
 CAR-51384,Hyundai,Tucson,2016,133700.0,Manual,Petrol,2000.0,SUV,White,Cairo,Individual,No,1.0,Good,10.0,489000,No
-CAR-51193,Chevrolet,Optra,2022,42200.0,Mt,Hybrid,1600.0,Sedan,Silver,Banha,Dealer,No,2.0,Poor,0.0,240000,Yes
+CAR-51193,Chevrolet,Optra,2022,42200.0,Manual,Hybrid,1600.0,Sedan,Silver,Banha,Dealer,No,2.0,Poor,0.0,240000,Yes
 CAR-52511,Nissan,Sunny,2019,107100.0,Manual,Diesel,1500.0,Sedan,Black,Alexandria,Individual,No,3.0,Fair,12.0,334000,Yes
 CAR-50391,Toyota,Corolla,2020,60700.0,Automatic,Hybrid,1600.0,Sedan,White,Alexandria,Individual,No,2.0,Fair,11.0,847000,Yes
 CAR-51873,MG,Zs,2019,111900.0,Automatic,Hybrid,1500.0,SUV,Grey,Tanta,Individual,No,1.0,Good,11.0,586000,No
@@ -1265,10 +1265,10 @@ CAR-50848,Chery,Tiggo 7,2017,100900.0,Manual,Diesel,1500.0,SUV,Black,Cairo,Deale
 CAR-51104,Hyundai,Elantra,2020,83700.0,Automatic,Diesel,2000.0,Sedan,Black,Tanta,Individual,No,1.0,Good,11.0,747000,Yes
 CAR-51724,Toyota,Corolla,2023,32500.0,Automatic,Petrol,1800.0,Sedan,Black,Alexandria,Dealer,No,1.0,Good,13.0,1432000,Yes
 CAR-51793,Hyundai,Elantra,2021,84900.0,Automatic,Diesel,1600.0,Sedan,Silver,Banha,Dealer,No,2.0,Fair,20.0,612000,Yes
-CAR-52211,Renault,Logan,2016,142950.0,Mt,Petrol,1600.0,Sedan,Grey,Cairo,Individual,No,2.0,Fair,11.0,220000,No
+CAR-52211,Renault,Logan,2016,142950.0,Manual,Petrol,1600.0,Sedan,Grey,Cairo,Individual,No,2.0,Fair,11.0,220000,No
 CAR-52311,Chevrolet,Optra,2019,93000.0,Manual,Petrol,1600.0,Sedan,Unknown,Alexandria,Individual,Yes,2.0,Good,11.0,198000,No
 CAR-51336,BMW,320i,2020,98500.0,Automatic,Petrol,2000.0,Sedan,Black,Assiut,Dealer,No,1.0,Good,0.0,1345000,No
-CAR-52033,Mitsubishi,Lancer,2013,194300.0,Mt,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Good,8.0,113000,No
+CAR-52033,Mitsubishi,Lancer,2013,194300.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Good,8.0,113000,No
 CAR-50561,Hyundai,Tucson,2022,36900.0,Unknown,Petrol,2000.0,SUV,Unknown,Banha,Individual,No,2.0,Fair,6.0,1137000,Yes
 CAR-50557,Hyundai,Elantra,2018,126100.0,Automatic,Petrol,2000.0,Sedan,White,Tanta,Dealer,No,1.0,Excellent,11.0,611000,No
 CAR-50416,Nissan,Sunny,2024,31700.0,Automatic,Petrol,1500.0,Sedan,Black,Alexandria,Dealer,No,1.0,Good,15.0,688000,Yes
@@ -1287,7 +1287,7 @@ CAR-50763,Toyota,Corolla,2013,257100.0,Automatic,Petrol,1800.0,Sedan,White,Alexa
 CAR-51847,Renault,Logan,2020,98100.0,Manual,Hybrid,1600.0,Sedan,Black,Alexandria,Dealer,No,2.0,Good,12.0,354000,Yes
 CAR-51872,Fiat,Tipo,2022,44400.0,Manual,Petrol,1600.0,Sedan,Grey,Cairo,Individual,No,1.0,Excellent,4.0,552000,No
 CAR-50613,Skoda,Octavia,2024,42900.0,Automatic,Petrol,1400.0,Sedan,Black,Mansoura,Individual,No,1.0,Excellent,6.0,1614000,No
-CAR-50142,Fiat,Tipo,2023,46300.0,Mt,Petrol,1600.0,Sedan,Red,Giza,Individual,No,4.0,Fair,13.0,392000,Yes
+CAR-50142,Fiat,Tipo,2023,46300.0,Manual,Petrol,1600.0,Sedan,Red,Giza,Individual,No,4.0,Fair,13.0,392000,Yes
 CAR-51893,Fiat,Tipo,2018,116300.0,Automatic,Petrol,1600.0,Sedan,Red,Cairo,Individual,Yes,1.0,Good,9.0,257000,Yes
 CAR-52082,Skoda,Octavia,2023,46200.0,Automatic,Diesel,1400.0,Sedan,Black,Tanta,Individual,No,1.0,Good,12.0,1330000,No
 CAR-51442,MG,Zs,2016,160900.0,Automatic,Petrol,1500.0,SUV,White,Alexandria,Dealer,No,1.0,Good,9.0,442000,Yes
@@ -1318,7 +1318,7 @@ CAR-50553,Skoda,Octavia,2021,84700.0,Manual,Petrol,1400.0,Sedan,Grey,Tanta,Deale
 CAR-52786,Nissan,Sunny,2024,18400.0,Automatic,Petrol,1500.0,Sedan,White,Cairo,Dealer,No,2.0,Good,16.0,772000,Yes
 CAR-51385,MG,Zs,2019,112700.0,Automatic,Diesel,1500.0,SUV,Red,Banha,Individual,No,2.0,Fair,7.0,560000,No
 CAR-52356,Renault,Logan,2024,27500.0,Automatic,Petrol,1600.0,Sedan,White,Tanta,Unknown,No,1.0,Poor,16.0,412000,Yes
-CAR-51573,Nissan,Sunny,2021,75200.0,Mt,Diesel,1500.0,Sedan,Black,Cairo,Dealer,No,2.0,Poor,8.0,344000,No
+CAR-51573,Nissan,Sunny,2021,75200.0,Manual,Diesel,1500.0,Sedan,Black,Cairo,Dealer,No,2.0,Poor,8.0,344000,No
 CAR-52133,Nissan,Sunny,2014,168500.0,Automatic,Petrol,1500.0,Sedan,White,Cairo,Individual,No,2.0,Good,0.0,229000,No
 CAR-52399,Chevrolet,Optra,2018,119200.0,Manual,Petrol,1600.0,Sedan,Black,Banha,Individual,No,3.0,Good,3.0,198000,No
 CAR-51684,Kia,Cerato,2014,145400.0,Automatic,Unknown,1600.0,Sedan,Red,Tanta,Individual,No,3.0,Good,5.0,264000,No
@@ -1327,11 +1327,11 @@ CAR-51687,Hyundai,Elantra,2016,109700.0,Automatic,Petrol,1600.0,Sedan,White,Cair
 CAR-50608,MG,Zs,2020,111900.0,Automatic,Hybrid,1500.0,SUV,Beige,Alexandria,Individual,No,2.0,Fair,8.0,563000,No
 CAR-50712,Hyundai,Elantra,2017,128500.0,Automatic,Petrol,2000.0,Sedan,Black,Cairo,Dealer,No,1.0,Good,20.0,467000,Yes
 CAR-50162,Renault,Logan,2022,41500.0,Manual,Petrol,1600.0,Sedan,Grey,Giza,Individual,No,2.0,Good,4.0,430000,Yes
-CAR-51505,Fiat,Tipo,2020,71000.0,Mt,Hybrid,1600.0,Sedan,Black,Alexandria,Dealer,Yes,1.0,Fair,14.0,328000,No
+CAR-51505,Fiat,Tipo,2020,71000.0,Manual,Hybrid,1600.0,Sedan,Black,Alexandria,Dealer,Yes,1.0,Fair,14.0,328000,No
 CAR-51522,MG,Zs,2025,500.0,Automatic,Petrol,1500.0,SUV,White,Alexandria,Individual,No,2.0,Good,8.0,1460000,No
 CAR-52408,Nissan,Sunny,2014,202500.0,Automatic,Petrol,1500.0,Sedan,Beige,Giza,Dealer,Yes,2.0,Fair,10.0,131000,No
 CAR-50477,Mercedes-Benz,C200,2024,37600.0,Automatic,Petrol,1600.0,Sedan,Grey,Tanta,Individual,No,1.0,Good,9.0,2872000,Yes
-CAR-52755,Mitsubishi,Lancer,2020,83700.0,Mt,Petrol,1600.0,Sedan,Black,Giza,Dealer,Yes,1.0,Good,8.0,249000,No
+CAR-52755,Mitsubishi,Lancer,2020,83700.0,Manual,Petrol,1600.0,Sedan,Black,Giza,Dealer,Yes,1.0,Good,8.0,249000,No
 CAR-50581,Fiat,Tipo,2014,999999.0,Manual,Diesel,1400.0,Sedan,Beige,Suez,Individual,Yes,3.0,Fair,9.0,145000,No
 CAR-51421,Renault,Logan,2021,69800.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Individual,Yes,1.0,Excellent,9.0,288000,Yes
 CAR-50070,Skoda,Octavia,2014,115600.0,Automatic,Unknown,1800.0,Sedan,Grey,Unknown,Individual,No,1.0,Excellent,9.0,489000,No
@@ -1415,7 +1415,7 @@ CAR-51648,Nissan,Sunny,2025,14400.0,Manual,Diesel,1500.0,Sedan,Blue,Alexandria,U
 CAR-52069,Kia,Cerato,2021,79800.0,Automatic,Petrol,1600.0,Sedan,Red,Giza,Dealer,No,1.0,Good,16.0,891000,No
 CAR-51728,Skoda,Octavia,2020,88400.0,Automatic,Petrol,1800.0,Sedan,Beige,Port Said,Dealer,No,1.0,Excellent,12.0,870000,Yes
 CAR-50659,Chevrolet,Optra,2016,142950.0,Manual,Petrol,1500.0,Sedan,White,Alexandria,Individual,No,1.0,Good,9.0,135000,No
-CAR-50218,Renault,Logan,2018,129700.0,Mt,Diesel,1600.0,Sedan,Black,Tanta,Dealer,No,2.0,Fair,12.0,251000,Yes
+CAR-50218,Renault,Logan,2018,129700.0,Manual,Diesel,1600.0,Sedan,Black,Tanta,Dealer,No,2.0,Fair,12.0,251000,Yes
 CAR-50368,Chevrolet,Optra,2019,69800.0,Automatic,Hybrid,1600.0,Sedan,Grey,Cairo,Individual,No,2.0,Excellent,14.0,385000,Yes
 CAR-52870,Toyota,Corolla,2025,18800.0,Automatic,Petrol,1800.0,Sedan,White,Cairo,Dealer,Yes,1.0,Excellent,17.0,1527000,Yes
 CAR-50915,Toyota,Corolla,2025,38600.0,Automatic,Petrol,1600.0,Sedan,Grey,Suez,Dealer,No,1.0,Good,12.0,2190000,No
@@ -1525,7 +1525,7 @@ CAR-50017,Skoda,Octavia,2022,65600.0,Automatic,Petrol,1800.0,Sedan,Grey,Assiut,I
 CAR-52584,Chevrolet,Optra,2020,59900.0,Manual,Petrol,1600.0,Sedan,Silver,Giza,Individual,No,2.0,Good,7.0,249000,Yes
 CAR-50004,Hyundai,Elantra,2023,31500.0,Automatic,Petrol,2000.0,Sedan,Silver,Giza,Individual,No,2.0,Fair,7.0,925000,Yes
 CAR-50048,MG,Zs,2020,95200.0,Automatic,Petrol,1500.0,SUV,Black,Giza,Individual,Yes,2.0,Excellent,6.0,527000,Yes
-CAR-51748,Chevrolet,Optra,2022,53800.0,Mt,Petrol,1500.0,Sedan,Silver,Suez,Dealer,No,2.0,Excellent,15.0,371000,Yes
+CAR-51748,Chevrolet,Optra,2022,53800.0,Manual,Petrol,1500.0,Sedan,Silver,Suez,Dealer,No,2.0,Excellent,15.0,371000,Yes
 CAR-51474,Chevrolet,Optra,2022,45200.0,Manual,Petrol,1500.0,Sedan,Black,Banha,Individual,No,3.0,Good,9.0,313000,No
 CAR-52604,Renault,Logan,2024,25100.0,Manual,Hybrid,1600.0,Sedan,Blue,Cairo,Dealer,No,1.0,Excellent,15.0,892000,No
 CAR-50284,BMW,320i,2024,18500.0,Automatic,Petrol,1600.0,Sedan,Silver,Alexandria,Dealer,No,1.0,Fair,15.0,2626000,Yes
@@ -1567,7 +1567,7 @@ CAR-52168,Toyota,Corolla,2024,43000.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Ind
 CAR-51732,MG,Zs,2021,69300.0,Automatic,Diesel,1500.0,SUV,Silver,Tanta,Dealer,No,2.0,Excellent,15.0,815000,Yes
 CAR-50480,Toyota,Corolla,2018,116800.0,Automatic,Petrol,1600.0,Sedan,White,Assiut,Individual,Yes,1.0,Good,0.0,535000,No
 CAR-52307,Toyota,Corolla,2024,16500.0,Automatic,Petrol,1600.0,Sedan,Blue,Tanta,Individual,No,2.0,Fair,0.0,1232000,Yes
-CAR-51941,Mitsubishi,Lancer,2021,85900.0,Mt,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,2.0,Good,9.0,406000,No
+CAR-51941,Mitsubishi,Lancer,2021,85900.0,Manual,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,2.0,Good,9.0,406000,No
 CAR-50564,MG,Zs,2016,140400.0,Automatic,Petrol,1500.0,SUV,Grey,Banha,Individual,Yes,3.0,Good,5.0,347000,Yes
 CAR-51338,Chery,Tiggo 7,2023,60100.0,Automatic,Petrol,1500.0,SUV,White,Cairo,Individual,No,1.0,Good,10.0,1309000,No
 CAR-51589,Toyota,Corolla,2026,9700.0,Automatic,Hybrid,1600.0,Sedan,White,Tanta,Individual,No,2.0,Good,6.0,2433000,No
@@ -1719,7 +1719,7 @@ CAR-50697,Toyota,Corolla,2025,18000.0,Automatic,Diesel,1600.0,Sedan,Grey,Port Sa
 CAR-52093,Kia,Cerato,2025,15700.0,Automatic,Petrol,1600.0,Sedan,White,Mansoura,Individual,No,2.0,Fair,6.0,1044000,Yes
 CAR-51591,Toyota,Corolla,2012,243000.0,Automatic,Petrol,1800.0,Sedan,Silver,Cairo,Dealer,No,4.0,Good,13.0,315000,No
 CAR-52191,Fiat,Tipo,2020,83700.0,Manual,Hybrid,1600.0,Sedan,Blue,Cairo,Individual,No,1.0,Excellent,8.0,423000,No
-CAR-51501,Kia,Cerato,2021,54100.0,Mt,Hybrid,1600.0,Sedan,Black,Tanta,Individual,Yes,1.0,Excellent,14.0,649000,Yes
+CAR-51501,Kia,Cerato,2021,54100.0,Manual,Hybrid,1600.0,Sedan,Black,Tanta,Individual,Yes,1.0,Excellent,14.0,649000,Yes
 CAR-52134,Mercedes-Benz,C200,2017,125150.0,Automatic,Petrol,2000.0,Sedan,Beige,Cairo,Dealer,No,3.0,Good,11.0,1288000,No
 CAR-50990,Fiat,Tipo,2022,64700.0,Manual,Petrol,1600.0,Sedan,Grey,Alexandria,Individual,No,1.0,Good,9.0,524000,No
 CAR-50935,Hyundai,Elantra,2024,38800.0,Automatic,Petrol,2000.0,Sedan,Silver,Cairo,Individual,No,1.0,Excellent,5.0,1379000,No
@@ -1744,8 +1744,8 @@ CAR-52812,Hyundai,Elantra,2025,18800.0,Manual,Petrol,1600.0,Sedan,Silver,Cairo,I
 CAR-52740,Fiat,Tipo,2011,216300.0,Automatic,Petrol,1600.0,Sedan,Grey,Giza,Dealer,No,3.0,Excellent,12.0,135000,Yes
 CAR-51863,MG,Zs,2015,173600.0,Automatic,Diesel,1500.0,SUV,Blue,Assiut,Dealer,No,3.0,Good,10.0,275000,Yes
 CAR-52530,Kia,Cerato,2020,81000.0,Automatic,Petrol,1600.0,Sedan,Silver,Cairo,Dealer,Yes,1.0,Good,11.0,568000,Yes
-CAR-50490,Hyundai,Elantra,2025,13100.0,Mt,Petrol,2000.0,Sedan,Beige,Giza,Individual,No,1.0,Good,9.0,1288000,No
-CAR-51364,Chevrolet,Optra,2018,92800.0,Mt,Diesel,1600.0,Sedan,Silver,Giza,Individual,No,1.0,Good,10.0,217000,Yes
+CAR-50490,Hyundai,Elantra,2025,13100.0,Manual,Petrol,2000.0,Sedan,Beige,Giza,Individual,No,1.0,Good,9.0,1288000,No
+CAR-51364,Chevrolet,Optra,2018,92800.0,Manual,Diesel,1600.0,Sedan,Silver,Giza,Individual,No,1.0,Good,10.0,217000,Yes
 CAR-50741,Chery,Tiggo 7,2021,65100.0,Automatic,Hybrid,1500.0,SUV,Red,Cairo,Dealer,No,1.0,Good,17.0,1196000,No
 CAR-51690,Renault,Logan,2021,90300.0,Manual,Diesel,1600.0,Sedan,Silver,Unknown,Individual,N,1.0,Fair,4.0,421000,No
 CAR-51398,Chevrolet,Optra,2019,121000.0,Unknown,Hybrid,1600.0,Sedan,Black,Giza,Individual,No,5.0,Good,10.0,241000,Yes
@@ -1855,7 +1855,7 @@ CAR-51602,Nissan,Sunny,2012,195200.0,Automatic,Petrol,1500.0,Sedan,Grey,Giza,Dea
 CAR-51695,Kia,Cerato,2012,190200.0,Automatic,Petrol,1600.0,Sedan,White,Cairo,Individual,No,3.0,Fair,10.0,233000,No
 CAR-51790,Fiat,Tipo,2025,5500.0,Manual,Petrol,1400.0,Sedan,Black,Giza,Dealer,No,2.0,Fair,12.0,597000,Yes
 CAR-50750,Skoda,Octavia,2025,24000.0,Manual,Petrol,1400.0,Sedan,Silver,Cairo,Individual,No,1.0,Good,12.0,1473000,No
-CAR-50349,Chevrolet,Optra,2016,145400.0,Mt,Petrol,1600.0,Sedan,Unknown,Cairo,Unknown,No,3.0,Good,10.0,154000,No
+CAR-50349,Chevrolet,Optra,2016,145400.0,Manual,Petrol,1600.0,Sedan,Unknown,Cairo,Unknown,No,3.0,Good,10.0,154000,No
 CAR-50005,Hyundai,Elantra,2020,83700.0,Automatic,Petrol,1600.0,Sedan,Silver,Tanta,Individual,No,2.0,Fair,7.0,622000,Yes
 CAR-51109,Hyundai,Elantra,2022,66600.0,Automatic,Hybrid,1600.0,Sedan,Red,Unknown,Individual,No,1.0,Poor,7.0,838000,No
 CAR-51662,Chery,Tiggo 7,2012,219700.0,Automatic,Petrol,1600.0,SUV,Grey,Cairo,Dealer,No,1.0,Excellent,10.0,286000,Yes
@@ -1891,7 +1891,7 @@ CAR-51155,Mitsubishi,Lancer,2018,113700.0,Automatic,Diesel,1600.0,Sedan,Black,Ca
 CAR-52179,Hyundai,Elantra,2018,125700.0,Unknown,Petrol,1600.0,Sedan,Grey,Alexandria,Dealer,No,2.0,Poor,15.0,388000,No
 CAR-52790,Toyota,Corolla,2021,61800.0,Automatic,Petrol,1800.0,Sedan,White,Tanta,Dealer,No,1.0,Good,15.0,1128000,Yes
 CAR-51995,Kia,Cerato,2020,96100.0,Automatic,Diesel,1600.0,Sedan,Silver,Alexandria,Dealer,N,6.0,Good,10.0,561000,Yes
-CAR-50443,Kia,Cerato,2024,14400.0,Mt,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,1.0,Good,6.0,1013000,Yes
+CAR-50443,Kia,Cerato,2024,14400.0,Manual,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,1.0,Good,6.0,1013000,Yes
 CAR-52785,Mercedes-Benz,C200,2021,69300.0,Automatic,Hybrid,1600.0,Sedan,Black,Cairo,Individual,No,1.0,Fair,6.0,1889000,No
 CAR-52055,BMW,320i,2016,158600.0,Automatic,Petrol,1600.0,Sedan,Silver,Alexandria,Individual,No,3.0,Excellent,10.0,1044000,No
 CAR-50045,Hyundai,Elantra,2024,29000.0,Manual,Hybrid,2000.0,Sedan,Unknown,Cairo,Individual,Yes,1.0,Excellent,9.0,949000,No
@@ -1921,7 +1921,7 @@ CAR-51619,Hyundai,Elantra,2018,113200.0,Automatic,Petrol,1600.0,Sedan,Red,Assiut
 CAR-50072,Kia,Cerato,2025,14800.0,Automatic,Petrol,1600.0,Sedan,Unknown,Assiut,Individual,No,1.0,Good,11.0,1060000,Yes
 CAR-51541,Renault,Logan,2014,192100.0,Manual,Petrol,1600.0,Sedan,Silver,Alexandria,Dealer,No,2.0,Good,0.0,146000,No
 CAR-50755,MG,Zs,2005,315300.0,Automatic,Petrol,1500.0,SUV,White,Giza,Individual,No,2.0,Fair,6.0,164000,No
-CAR-52275,Toyota,Corolla,2021,86000.0,Mt,Diesel,1800.0,Sedan,Black,Alexandria,Unknown,No,2.0,Excellent,11.0,833000,No
+CAR-52275,Toyota,Corolla,2021,86000.0,Manual,Diesel,1800.0,Sedan,Black,Alexandria,Unknown,No,2.0,Excellent,11.0,833000,No
 CAR-51642,Renault,Logan,2018,112300.0,Automatic,Petrol,1600.0,Sedan,White,Unknown,Individual,No,5.0,Good,10.0,279000,Yes
 CAR-50016,Chevrolet,Optra,2016,185200.0,Manual,Petrol,1600.0,Sedan,Silver,Cairo,Individual,No,1.0,Good,11.0,144000,No
 CAR-52391,Renault,Logan,2015,156000.0,Manual,Petrol,1600.0,Sedan,Grey,Port Said,Individual,N,2.0,Fair,9.0,183000,No
@@ -1993,7 +1993,7 @@ CAR-52156,Renault,Logan,2023,40200.0,Manual,Petrol,1600.0,Sedan,Silver,Cairo,Dea
 CAR-50441,Chevrolet,Optra,2023,39600.0,Automatic,Diesel,1600.0,Sedan,Black,Assiut,Individual,No,2.0,Good,7.0,453000,No
 CAR-51532,Hyundai,Elantra,2013,194800.0,Automatic,Diesel,2000.0,Sedan,Black,Alexandria,Individual,No,2.0,Excellent,11.0,301000,Yes
 CAR-50362,Chevrolet,Optra,2025,10600.0,Manual,Petrol,1500.0,Sedan,Blue,Tanta,Individual,No,2.0,Good,11.0,433000,No
-CAR-51623,Chevrolet,Optra,2023,52100.0,Mt,Petrol,1500.0,Sedan,Silver,Cairo,Individual,No,1.0,Good,8.0,356000,Yes
+CAR-51623,Chevrolet,Optra,2023,52100.0,Manual,Petrol,1500.0,Sedan,Silver,Cairo,Individual,No,1.0,Good,8.0,356000,Yes
 CAR-52034,Kia,Cerato,2016,153500.0,Automatic,Diesel,1600.0,Sedan,Blue,Cairo,Individual,No,2.0,Excellent,18.0,356000,Yes
 CAR-52517,Renault,Logan,2020,87800.0,Manual,Diesel,1600.0,Sedan,Grey,Alexandria,Individual,No,2.0,Excellent,8.0,341000,No
 CAR-51149,Nissan,Sunny,2020,72700.0,Manual,Hybrid,1500.0,Sedan,White,Giza,Dealer,No,2.0,Good,15.0,434000,Yes
@@ -2008,7 +2008,7 @@ CAR-51420,Kia,Cerato,2005,279000.0,Automatic,Petrol,1600.0,Sedan,Unknown,Giza,De
 CAR-51093,Skoda,Octavia,2024,33400.0,Automatic,Diesel,1400.0,Sedan,Silver,Alexandria,Individual,No,1.0,Excellent,5.0,1388000,No
 CAR-50662,Chevrolet,Optra,2023,24700.0,Manual,Petrol,1600.0,Sedan,Unknown,Mansoura,Dealer,No,1.0,Good,17.0,422000,Yes
 CAR-52012,Renault,Logan,2019,114400.0,Automatic,Diesel,1600.0,Sedan,Black,Port Said,Individual,No,1.0,Poor,8.0,254000,No
-CAR-51531,Nissan,Sunny,2022,32500.0,Mt,Petrol,1500.0,Sedan,Unknown,Giza,Individual,No,2.0,Good,10.0,673000,No
+CAR-51531,Nissan,Sunny,2022,32500.0,Manual,Petrol,1500.0,Sedan,Unknown,Giza,Individual,No,2.0,Good,10.0,673000,No
 CAR-52288,Nissan,Sunny,2011,198400.0,Automatic,Diesel,1500.0,Sedan,Black,Cairo,Dealer,No,3.0,Fair,15.0,131000,No
 CAR-52246,Hyundai,Elantra,2023,44600.0,Automatic,Petrol,1600.0,Sedan,Grey,Banha,Individual,Yes,2.0,Excellent,9.0,1004000,Yes
 CAR-50109,Skoda,Octavia,2021,68700.0,Automatic,Diesel,1800.0,Sedan,Blue,Cairo,Individual,No,2.0,Good,11.0,1009000,Yes
@@ -2143,7 +2143,7 @@ CAR-52598,Toyota,Corolla,2014,164400.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo
 CAR-51404,Kia,Cerato,2019,115800.0,Automatic,Petrol,1600.0,Sedan,White,Cairo,Dealer,Yes,1.0,Fair,12.0,477000,No
 CAR-50413,Renault,Logan,2018,130700.0,Manual,Petrol,1600.0,Sedan,Silver,Port Said,Individual,Yes,3.0,Fair,10.0,205000,No
 CAR-52912,Nissan,Sunny,2018,127500.0,Manual,Diesel,1500.0,Sedan,White,Alexandria,Individual,Yes,1.0,Fair,8.0,283000,No
-CAR-50247,Nissan,Sunny,2020,68900.0,Mt,Petrol,1500.0,Sedan,Black,Cairo,Dealer,No,1.0,Good,17.0,486000,No
+CAR-50247,Nissan,Sunny,2020,68900.0,Manual,Petrol,1500.0,Sedan,Black,Cairo,Dealer,No,1.0,Good,17.0,486000,No
 CAR-50058,Nissan,Sunny,2024,45600.0,Manual,Unknown,1500.0,Sedan,White,Suez,Individual,Yes,1.0,Excellent,10.0,613000,No
 CAR-50870,Toyota,Corolla,2005,279500.0,Automatic,Diesel,1600.0,Sedan,White,Unknown,Individual,Yes,1.0,Good,6.0,239000,No
 CAR-50498,Nissan,Sunny,2018,127500.0,Automatic,Petrol,1500.0,Sedan,Unknown,Cairo,Dealer,No,1.0,Good,10.0,338000,Yes
@@ -2208,7 +2208,7 @@ CAR-51682,BMW,320i,2023,27300.0,Automatic,Petrol,2000.0,Sedan,Silver,Giza,Indivi
 CAR-51410,Kia,Cerato,2011,275700.0,Automatic,Petrol,1600.0,Sedan,White,Cairo,Individual,No,2.0,Good,11.0,182000,No
 CAR-50169,MG,Zs,2022,58600.0,Automatic,Petrol,1500.0,SUV,Grey,Alexandria,Dealer,No,2.0,Fair,14.0,809000,Yes
 CAR-52493,Toyota,Corolla,2022,44300.0,Manual,Hybrid,1600.0,Sedan,Black,Banha,Individual,N,2.0,Good,11.0,1610000,No
-CAR-51022,Renault,Logan,2024,22500.0,Mt,Petrol,1600.0,Sedan,Silver,Giza,Dealer,No,1.0,Good,9.0,605000,No
+CAR-51022,Renault,Logan,2024,22500.0,Manual,Petrol,1600.0,Sedan,Silver,Giza,Dealer,No,1.0,Good,9.0,605000,No
 CAR-50493,Skoda,Octavia,2018,112300.0,Automatic,Petrol,1400.0,Sedan,White,Mansoura,Individual,No,1.0,Fair,8.0,631000,Yes
 CAR-51750,Mitsubishi,Lancer,2023,34000.0,Automatic,Diesel,1600.0,Sedan,Silver,Tanta,Individual,No,1.0,Fair,8.0,432000,No
 CAR-51151,Chevrolet,Optra,2020,82700.0,Manual,Hybrid,1500.0,Sedan,White,Tanta,Individual,No,2.0,Excellent,11.0,319000,Yes
@@ -2235,7 +2235,7 @@ CAR-52700,Skoda,Octavia,2010,204500.0,Automatic,Diesel,1800.0,Sedan,Silver,Manso
 CAR-52286,Chery,Tiggo 7,2022,69600.0,Automatic,Petrol,1500.0,SUV,Beige,Assiut,Individual,Yes,2.0,Good,6.0,988000,No
 CAR-52315,Hyundai,Elantra,2021,56100.0,Automatic,Petrol,1600.0,Sedan,Unknown,Port Said,Individual,Yes,1.0,Fair,9.0,667000,No
 CAR-50664,Hyundai,Elantra,2024,33700.0,Automatic,Unknown,2000.0,Sedan,Blue,Alexandria,Dealer,No,2.0,Excellent,11.0,1170000,Yes
-CAR-50711,Nissan,Sunny,2022,57350.0,Mt,Petrol,1500.0,Sedan,Silver,Assiut,Individual,No,1.0,Good,5.0,483000,No
+CAR-50711,Nissan,Sunny,2022,57350.0,Manual,Petrol,1500.0,Sedan,Silver,Assiut,Individual,No,1.0,Good,5.0,483000,No
 CAR-50149,Nissan,Sunny,2019,108400.0,Automatic,Petrol,1500.0,Sedan,Black,Alexandria,Individual,No,1.0,Good,14.0,496000,Yes
 CAR-50522,Nissan,Sunny,2018,125800.0,Automatic,Hybrid,1500.0,Sedan,Red,Giza,Individual,No,1.0,Fair,10.0,348000,No
 CAR-51453,Fiat,Tipo,2018,132600.0,Manual,Petrol,1600.0,Sedan,White,Assiut,Individual,Yes,1.0,Good,7.0,244000,No
@@ -2248,7 +2248,7 @@ CAR-50674,Kia,Cerato,2022,57100.0,Automatic,Petrol,1600.0,Sedan,White,Banha,Deal
 CAR-51304,Nissan,Sunny,2012,204300.0,Automatic,Petrol,1500.0,Sedan,Unknown,Cairo,Individual,No,3.0,Excellent,12.0,147000,Yes
 CAR-50166,Nissan,Sunny,2013,203100.0,Automatic,Petrol,1500.0,Sedan,Silver,Cairo,Individual,Yes,3.0,Good,12.0,152000,Yes
 CAR-51736,BMW,320i,2024,19600.0,Automatic,Petrol,2000.0,Sedan,Grey,Giza,Individual,No,1.0,Good,8.0,2409000,No
-CAR-52495,Fiat,Tipo,2021,78400.0,Mt,Petrol,1600.0,Sedan,Silver,Giza,Dealer,Yes,1.0,Poor,12.0,222000,No
+CAR-52495,Fiat,Tipo,2021,78400.0,Manual,Petrol,1600.0,Sedan,Silver,Giza,Dealer,Yes,1.0,Poor,12.0,222000,No
 CAR-51533,Hyundai,Elantra,2021,80100.0,Unknown,Diesel,2000.0,Sedan,Black,Alexandria,Dealer,Yes,2.0,Poor,15.0,420000,Yes
 CAR-51481,Mitsubishi,Lancer,2025,4500.0,Automatic,Petrol,1600.0,Sedan,Silver,Tanta,Dealer,No,1.0,Fair,17.0,576000,Yes
 CAR-52557,Hyundai,Tucson,2024,15000.0,Automatic,Petrol,2000.0,SUV,Silver,Cairo,Individual,No,2.0,Good,0.0,1843000,Yes
@@ -2260,7 +2260,7 @@ CAR-52720,Kia,Cerato,2020,88200.0,Automatic,Petrol,1600.0,Sedan,White,Assiut,Ind
 CAR-52357,Skoda,Octavia,2024,45700.0,Automatic,Petrol,1400.0,Sedan,White,Giza,Individual,N,2.0,Fair,4.0,1238000,Yes
 CAR-52351,Hyundai,Elantra,2018,89800.0,Manual,Diesel,2000.0,Sedan,Silver,Cairo,Dealer,No,2.0,Fair,11.0,439000,Yes
 CAR-50258,Hyundai,Tucson,2022,56300.0,Automatic,Petrol,2000.0,SUV,White,Giza,Individual,Yes,1.0,Good,12.0,1190000,Yes
-CAR-52025,Nissan,Sunny,2024,31100.0,Mt,Petrol,1500.0,Sedan,Silver,Suez,Individual,No,1.0,Good,11.0,637000,Yes
+CAR-52025,Nissan,Sunny,2024,31100.0,Manual,Petrol,1500.0,Sedan,Silver,Suez,Individual,No,1.0,Good,11.0,637000,Yes
 CAR-52629,Hyundai,Elantra,2011,235300.0,Manual,Petrol,2000.0,Sedan,Black,Giza,Dealer,No,4.0,Fair,13.0,172000,Yes
 CAR-50550,MG,Zs,2017,90500.0,Unknown,Petrol,1500.0,SUV,Beige,Port Said,Individual,Yes,2.0,Fair,4.0,387000,No
 CAR-52375,Fiat,Tipo,2022,45600.0,Manual,Diesel,1400.0,Sedan,Grey,Cairo,Individual,No,2.0,Good,11.0,460000,No
@@ -2337,7 +2337,7 @@ CAR-50302,Renault,Logan,2018,130000.0,Manual,Petrol,1600.0,Sedan,Silver,Banha,De
 CAR-52088,Chery,Tiggo 7,2016,134400.0,Automatic,Petrol,1500.0,SUV,Black,Tanta,Dealer,No,2.0,Excellent,7.0,470000,Yes
 CAR-50632,Toyota,Corolla,2014,140300.0,Automatic,Petrol,1800.0,Sedan,Grey,Mansoura,Individual,No,2.0,Fair,7.0,423000,No
 CAR-50869,Chevrolet,Optra,2024,27700.0,Automatic,Hybrid,1600.0,Sedan,White,Alexandria,Dealer,No,3.0,Good,13.0,583000,Yes
-CAR-50095,Hyundai,Elantra,2024,29900.0,Mt,Hybrid,2000.0,Sedan,Beige,Giza,Individual,Yes,1.0,Good,12.0,1011000,No
+CAR-50095,Hyundai,Elantra,2024,29900.0,Manual,Hybrid,2000.0,Sedan,Beige,Giza,Individual,Yes,1.0,Good,12.0,1011000,No
 CAR-52091,Toyota,Corolla,2009,209300.0,Automatic,Diesel,1600.0,Sedan,Grey,Suez,Dealer,No,2.0,Excellent,13.0,249000,Yes
 CAR-51606,Mitsubishi,Lancer,2022,57350.0,Automatic,Petrol,1600.0,Sedan,Blue,Cairo,Individual,No,1.0,Fair,11.0,384000,Yes
 CAR-51857,Fiat,Tipo,2024,16600.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Individual,No,2.0,Good,13.0,604000,Yes
@@ -2444,7 +2444,7 @@ CAR-52605,Hyundai,Tucson,2020,96700.0,Automatic,Petrol,2000.0,SUV,Blue,Cairo,Dea
 CAR-52761,Toyota,Corolla,2022,62600.0,Automatic,Petrol,1800.0,Sedan,White,Alexandria,Individual,No,3.0,Good,11.0,1265000,No
 CAR-52915,Toyota,Corolla,2020,83700.0,Automatic,Petrol,1800.0,Sedan,Silver,Alexandria,Individual,Yes,2.0,Good,5.0,841000,No
 CAR-51888,Skoda,Octavia,2018,113700.0,Automatic,Petrol,1400.0,Sedan,Silver,Mansoura,Individual,No,2.0,Good,15.0,837000,No
-CAR-51073,Chevrolet,Optra,2024,36300.0,Mt,Hybrid,1600.0,Sedan,Beige,Alexandria,Individual,Yes,1.0,Fair,6.0,413000,Yes
+CAR-51073,Chevrolet,Optra,2024,36300.0,Manual,Hybrid,1600.0,Sedan,Beige,Alexandria,Individual,Yes,1.0,Fair,6.0,413000,Yes
 CAR-51865,Nissan,Sunny,2021,55100.0,Automatic,Petrol,1500.0,Sedan,Black,Giza,Individual,N,2.0,Good,6.0,452000,No
 CAR-51065,Toyota,Corolla,2016,131900.0,Automatic,Petrol,1800.0,Sedan,White,Cairo,Individual,No,2.0,Fair,12.0,424000,Yes
 CAR-51393,Mitsubishi,Lancer,2017,107400.0,Automatic,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Poor,9.0,179000,No
@@ -2457,7 +2457,7 @@ CAR-52143,Renault,Logan,2023,40200.0,Manual,Petrol,1600.0,Sedan,Grey,Giza,Dealer
 CAR-51994,Chevrolet,Optra,2019,118100.0,Manual,Hybrid,1600.0,Sedan,Silver,Cairo,Dealer,No,1.0,Good,8.0,246000,Yes
 CAR-52804,Renault,Logan,2021,70400.0,Manual,Petrol,1600.0,Sedan,Beige,Giza,Individual,No,1.0,Excellent,5.0,397000,Yes
 CAR-52008,Renault,Logan,2014,148000.0,Manual,Petrol,1600.0,Sedan,White,Port Said,Individual,No,4.0,Fair,11.0,144000,No
-CAR-52919,Fiat,Tipo,2010,208000.0,Mt,Petrol,1600.0,Sedan,Grey,Cairo,Individual,No,1.0,Poor,11.0,99000,No
+CAR-52919,Fiat,Tipo,2010,208000.0,Manual,Petrol,1600.0,Sedan,Grey,Cairo,Individual,No,1.0,Poor,11.0,99000,No
 CAR-52023,Toyota,Corolla,2021,48900.0,Automatic,Hybrid,1800.0,Sedan,White,Banha,Dealer,No,1.0,Good,12.0,1195000,Yes
 CAR-50163,MG,Zs,2016,162600.0,Automatic,Petrol,1500.0,SUV,Silver,Giza,Individual,No,3.0,Excellent,10.0,430000,No
 CAR-51087,Toyota,Corolla,2018,112400.0,Automatic,Petrol,1800.0,Sedan,Beige,Cairo,Individual,Yes,2.0,Good,8.0,684000,No
@@ -2503,7 +2503,7 @@ CAR-51247,Renault,Logan,2020,86500.0,Manual,Diesel,1600.0,Sedan,White,Alexandria
 CAR-50304,Renault,Logan,2019,96300.0,Manual,Diesel,1600.0,Sedan,White,Giza,Individual,No,1.0,Good,8.0,326000,No
 CAR-52769,MG,Zs,2019,110800.0,Automatic,Petrol,1500.0,SUV,Black,Giza,Individual,Yes,2.0,Fair,10.0,532000,No
 CAR-52212,Skoda,Octavia,2025,15300.0,Automatic,Hybrid,1400.0,Sedan,Black,Cairo,Individual,No,3.0,Poor,6.0,1348000,Yes
-CAR-50779,Hyundai,Elantra,2022,39600.0,Mt,Diesel,2000.0,Sedan,White,Alexandria,Unknown,No,2.0,Excellent,2.0,830000,Yes
+CAR-50779,Hyundai,Elantra,2022,39600.0,Manual,Diesel,2000.0,Sedan,White,Alexandria,Unknown,No,2.0,Excellent,2.0,830000,Yes
 CAR-52692,Skoda,Octavia,2017,129500.0,Automatic,Diesel,1800.0,Sedan,Unknown,Banha,Individual,No,3.0,Fair,7.0,525000,No
 CAR-52445,Chevrolet,Optra,2025,500.0,Manual,Petrol,1600.0,Sedan,White,Tanta,Individual,No,1.0,Excellent,9.0,587000,No
 CAR-52266,Kia,Cerato,2013,186800.0,Automatic,Petrol,1600.0,Sedan,Blue,Alexandria,Dealer,No,3.0,Fair,14.0,219000,Yes
@@ -2514,10 +2514,10 @@ CAR-50781,Kia,Cerato,2021,65200.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Dealer,
 CAR-50485,Toyota,Corolla,2015,177500.0,Automatic,Petrol,1800.0,Sedan,Black,Alexandria,Individual,Yes,2.0,Good,5.0,346000,Yes
 CAR-52852,Toyota,Corolla,2024,30800.0,Automatic,Petrol,1600.0,Sedan,Blue,Cairo,Individual,Yes,3.0,Good,8.0,1535000,Yes
 CAR-50526,Skoda,Octavia,2010,198000.0,Automatic,Petrol,1800.0,Sedan,Black,Giza,Individual,No,4.0,Good,4.0,225000,No
-CAR-52863,Skoda,Octavia,2015,166400.0,Mt,Diesel,1800.0,Sedan,Black,Port Said,Individual,No,2.0,Good,6.0,415000,No
+CAR-52863,Skoda,Octavia,2015,166400.0,Manual,Diesel,1800.0,Sedan,Black,Port Said,Individual,No,2.0,Good,6.0,415000,No
 CAR-51002,Hyundai,Elantra,2016,131100.0,Automatic,Petrol,2000.0,Sedan,Silver,Alexandria,Individual,Yes,2.0,Excellent,9.0,365000,Yes
 CAR-51351,BMW,320i,2021,57600.0,Automatic,Hybrid,2000.0,Sedan,Blue,Mansoura,Individual,No,2.0,Good,7.0,2098000,Yes
-CAR-51363,Mitsubishi,Lancer,2017,132700.0,Mt,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Good,13.0,186000,No
+CAR-51363,Mitsubishi,Lancer,2017,132700.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Good,13.0,186000,No
 CAR-50145,Renault,Logan,2023,34700.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Individual,Yes,1.0,Good,8.0,455000,No
 CAR-50253,Mitsubishi,Lancer,2025,22700.0,Automatic,Diesel,1600.0,Sedan,Grey,Cairo,Dealer,No,1.0,Fair,16.0,619000,Yes
 CAR-52242,Nissan,Sunny,2020,73800.0,Automatic,Petrol,1500.0,Sedan,Grey,Cairo,Individual,No,2.0,Good,7.0,492000,No
@@ -2632,10 +2632,10 @@ CAR-50009,Toyota,Corolla,2017,96600.0,Automatic,Petrol,1800.0,Sedan,White,Giza,I
 CAR-50938,Kia,Cerato,2013,184100.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo,Individual,No,2.0,Good,15.0,261000,Yes
 CAR-52558,Hyundai,Elantra,2019,98400.0,Automatic,Hybrid,1600.0,Sedan,Beige,Alexandria,Individual,No,1.0,Fair,13.0,562000,Yes
 CAR-50186,Fiat,Tipo,2008,249400.0,Automatic,Petrol,1400.0,Sedan,Grey,Giza,Individual,No,2.0,Poor,6.0,93000,No
-CAR-51408,Chevrolet,Optra,2009,245300.0,Mt,Diesel,1600.0,Sedan,Red,Giza,Individual,No,3.0,Excellent,8.0,66000,No
+CAR-51408,Chevrolet,Optra,2009,245300.0,Manual,Diesel,1600.0,Sedan,Red,Giza,Individual,No,3.0,Excellent,8.0,66000,No
 CAR-50113,Toyota,Corolla,2014,177200.0,Automatic,Petrol,1800.0,Sedan,White,Cairo,Individual,No,2.0,Fair,10.0,375000,No
 CAR-51478,MG,Zs,2021,89500.0,Automatic,Petrol,1500.0,SUV,White,Mansoura,Individual,Yes,1.0,Good,0.0,610000,No
-CAR-51835,Kia,Cerato,2017,176800.0,Mt,Petrol,1600.0,Sedan,Beige,Cairo,Individual,No,3.0,Good,8.0,354000,No
+CAR-51835,Kia,Cerato,2017,176800.0,Manual,Petrol,1600.0,Sedan,Beige,Cairo,Individual,No,3.0,Good,8.0,354000,No
 CAR-50343,Chery,Tiggo 7,2014,182800.0,Automatic,Unknown,1600.0,SUV,Black,Cairo,Individual,Yes,4.0,Excellent,11.0,320000,No
 CAR-50889,Nissan,Sunny,2021,75200.0,Manual,Petrol,1500.0,Sedan,Silver,Alexandria,Unknown,Yes,3.0,Excellent,7.0,323000,Yes
 CAR-52879,Chery,Tiggo 7,2023,50400.0,Automatic,Petrol,1600.0,SUV,White,Cairo,Dealer,N,1.0,Good,11.0,1386000,No
@@ -2678,7 +2678,7 @@ CAR-51175,Kia,Cerato,2015,162700.0,Automatic,Petrol,1600.0,Sedan,Grey,Banha,Indi
 CAR-50146,Toyota,Corolla,2018,125400.0,Manual,Petrol,1600.0,Sedan,White,Tanta,Individual,Yes,1.0,Good,11.0,584000,No
 CAR-50469,Mercedes-Benz,C200,2024,11700.0,Automatic,Petrol,1600.0,Sedan,Black,Cairo,Dealer,Yes,1.0,Good,15.0,2815000,No
 CAR-52760,Mercedes-Benz,C200,2023,51000.0,Automatic,Hybrid,2000.0,Sedan,White,Port Said,Individual,No,1.0,Fair,0.0,1872000,Yes
-CAR-51746,Chevrolet,Optra,2024,28700.0,Mt,Petrol,1500.0,Sedan,White,Alexandria,Individual,No,1.0,Good,12.0,401000,Yes
+CAR-51746,Chevrolet,Optra,2024,28700.0,Manual,Petrol,1500.0,Sedan,White,Alexandria,Individual,No,1.0,Good,12.0,401000,Yes
 CAR-52719,MG,Zs,2020,77000.0,Automatic,Hybrid,1500.0,SUV,White,Cairo,Individual,No,2.0,Good,7.0,723000,No
 CAR-52337,Kia,Cerato,2022,60900.0,Automatic,Petrol,1600.0,Sedan,Grey,Alexandria,Individual,No,1.0,Good,8.0,666000,Yes
 CAR-50423,Kia,Cerato,2018,113700.0,Automatic,Hybrid,1600.0,Sedan,Black,Cairo,Individual,No,4.0,Fair,6.0,460000,No
@@ -2705,7 +2705,7 @@ CAR-52027,Mitsubishi,Lancer,2023,56000.0,Manual,Petrol,1600.0,Sedan,Silver,Unkno
 CAR-52124,Chery,Tiggo 7,2025,16600.0,Automatic,Petrol,1500.0,SUV,White,Cairo,Dealer,No,3.0,Fair,12.0,1356000,Yes
 CAR-50212,Skoda,Octavia,2005,315900.0,Automatic,Diesel,1400.0,Sedan,White,Alexandria,Dealer,No,3.0,Fair,12.0,214000,No
 CAR-50721,Chevrolet,Optra,2020,101700.0,Manual,Petrol,1500.0,Sedan,Silver,Cairo,Individual,No,1.0,Good,13.0,237000,Yes
-CAR-50482,Chevrolet,Optra,2010,233800.0,Mt,Petrol,1600.0,Sedan,White,Alexandria,Individual,Yes,3.0,Fair,7.0,74000,No
+CAR-50482,Chevrolet,Optra,2010,233800.0,Manual,Petrol,1600.0,Sedan,White,Alexandria,Individual,Yes,3.0,Fair,7.0,74000,No
 CAR-51476,Mitsubishi,Lancer,2015,144100.0,Manual,Petrol,1600.0,Sedan,Grey,Alexandria,Individual,No,3.0,Excellent,11.0,173000,No
 CAR-51754,Hyundai,Elantra,2021,59400.0,Automatic,Petrol,1600.0,Sedan,White,Port Said,Individual,No,1.0,Poor,6.0,684000,No
 CAR-52521,Kia,Cerato,2018,115400.0,Automatic,Petrol,1600.0,Sedan,Red,Port Said,Dealer,No,2.0,Fair,12.0,373000,Yes
@@ -2714,7 +2714,7 @@ CAR-52713,Kia,Cerato,2022,46800.0,Automatic,Hybrid,1600.0,Sedan,Black,Giza,Indiv
 CAR-50867,Toyota,Corolla,2019,115100.0,Automatic,Hybrid,1600.0,Sedan,White,Cairo,Individual,No,3.0,Fair,9.0,777000,No
 CAR-50426,Toyota,Corolla,2017,131800.0,Unknown,Petrol,1800.0,Sedan,Beige,Cairo,Dealer,No,2.0,Fair,13.0,596000,No
 CAR-51274,Skoda,Octavia,2023,52200.0,Manual,Unknown,1800.0,Sedan,White,Mansoura,Dealer,No,1.0,Good,10.0,1101000,Yes
-CAR-52732,Hyundai,Elantra,2015,151800.0,Mt,Petrol,2000.0,Sedan,Blue,Banha,Individual,No,1.0,Good,11.0,250000,Yes
+CAR-52732,Hyundai,Elantra,2015,151800.0,Manual,Petrol,2000.0,Sedan,Blue,Banha,Individual,No,1.0,Good,11.0,250000,Yes
 CAR-51616,Hyundai,Tucson,2016,144800.0,Automatic,Diesel,1600.0,SUV,Silver,Giza,Individual,No,3.0,Excellent,10.0,521000,Yes
 CAR-52123,Hyundai,Elantra,2023,52600.0,Automatic,Petrol,2000.0,Sedan,Black,Suez,Dealer,Yes,1.0,Good,17.0,1087000,No
 CAR-51428,Kia,Cerato,2022,62100.0,Automatic,Petrol,1600.0,Sedan,Black,Giza,Dealer,No,2.0,Good,10.0,733000,Yes
@@ -2787,7 +2787,7 @@ CAR-52775,Mitsubishi,Lancer,2013,182100.0,Manual,Petrol,1600.0,Sedan,Blue,Giza,I
 CAR-52076,Chevrolet,Optra,2006,291000.0,Manual,Petrol,1600.0,Sedan,Blue,Tanta,Dealer,No,1.0,Excellent,9.0,76000,No
 CAR-51237,Skoda,Octavia,2021,69300.0,Automatic,Unknown,1800.0,Sedan,Grey,Alexandria,Dealer,Yes,3.0,Good,13.0,954000,Yes
 CAR-52109,Hyundai,Elantra,2022,70700.0,Automatic,Petrol,2000.0,Sedan,Black,Giza,Unknown,No,1.0,Fair,14.0,693000,Yes
-CAR-51629,Fiat,Tipo,2014,225400.0,Mt,Diesel,1400.0,Sedan,Unknown,Giza,Individual,Yes,1.0,Excellent,11.0,148000,No
+CAR-51629,Fiat,Tipo,2014,225400.0,Manual,Diesel,1400.0,Sedan,Unknown,Giza,Individual,Yes,1.0,Excellent,11.0,148000,No
 CAR-52927,Renault,Logan,2018,109300.0,Manual,Hybrid,1600.0,Sedan,White,Assiut,Individual,No,2.0,Poor,8.0,259000,No
 CAR-51306,BMW,320i,2023,46900.0,Automatic,Petrol,1600.0,Sedan,Silver,Cairo,Dealer,No,2.0,Good,15.0,2607000,No
 CAR-51817,Hyundai,Tucson,2024,35900.0,Automatic,Diesel,1600.0,SUV,White,Cairo,Individual,No,1.0,Excellent,8.0,1922000,No
@@ -2800,7 +2800,7 @@ CAR-50014,Nissan,Sunny,2023,52500.0,Automatic,Petrol,1500.0,Sedan,Black,Giza,Ind
 CAR-52537,Hyundai,Tucson,2017,136300.0,Automatic,Petrol,1600.0,SUV,Silver,Assiut,Individual,No,1.0,Good,18.0,674000,Yes
 CAR-50316,Chevrolet,Optra,2019,118200.0,Manual,Petrol,1500.0,Sedan,Silver,Cairo,Dealer,No,1.0,Poor,14.0,153000,No
 CAR-50791,Toyota,Corolla,2021,61900.0,Manual,Diesel,1800.0,Sedan,White,Port Said,Dealer,No,1.0,Good,15.0,987000,Yes
-CAR-52905,Kia,Cerato,2014,151600.0,Mt,Petrol,1600.0,Sedan,Black,Alexandria,Individual,No,2.0,Fair,11.0,218000,No
+CAR-52905,Kia,Cerato,2014,151600.0,Manual,Petrol,1600.0,Sedan,Black,Alexandria,Individual,No,2.0,Fair,11.0,218000,No
 CAR-51574,Chevrolet,Optra,2021,84700.0,Automatic,Petrol,1500.0,Sedan,White,Mansoura,Individual,No,2.0,Good,11.0,278000,Yes
 CAR-52529,Hyundai,Elantra,2020,87800.0,Automatic,Petrol,2000.0,Sedan,Silver,Cairo,Individual,No,2.0,Good,15.0,677000,Yes
 CAR-52213,Toyota,Corolla,2022,57800.0,Automatic,Diesel,1600.0,Sedan,Silver,Cairo,Individual,No,1.0,Excellent,4.0,1559000,No
@@ -2812,14 +2812,14 @@ CAR-51717,Hyundai,Elantra,2024,25500.0,Automatic,Petrol,2000.0,Sedan,Black,Giza,
 CAR-50392,Kia,Cerato,2005,319300.0,Manual,Petrol,1600.0,Sedan,Silver,Banha,Individual,No,4.0,Good,6.0,190000,No
 CAR-52923,Mercedes-Benz,C200,2021,58700.0,Automatic,Petrol,2000.0,Sedan,Red,Alexandria,Individual,No,1.0,Good,10.0,2138000,No
 CAR-50059,Toyota,Corolla,2018,120000.0,Manual,Diesel,1800.0,Sedan,Red,Mansoura,Dealer,No,2.0,Excellent,10.0,701000,Yes
-CAR-51463,Toyota,Corolla,2021,85400.0,Mt,Petrol,1600.0,Sedan,Unknown,Banha,Dealer,No,2.0,Good,14.0,1033000,No
+CAR-51463,Toyota,Corolla,2021,85400.0,Manual,Petrol,1600.0,Sedan,Unknown,Banha,Dealer,No,2.0,Good,14.0,1033000,No
 CAR-50361,Kia,Cerato,2014,157700.0,Automatic,Diesel,1600.0,Sedan,Unknown,Banha,Dealer,Yes,2.0,Good,14.0,258000,Yes
 CAR-50363,Renault,Logan,2023,37600.0,Manual,Petrol,1600.0,Sedan,Silver,Giza,Individual,No,1.0,Good,6.0,469000,No
 CAR-51108,Hyundai,Elantra,2021,57400.0,Automatic,Diesel,2000.0,Sedan,Beige,Banha,Dealer,No,4.0,Good,12.0,773000,Yes
 CAR-52072,Chevrolet,Optra,2022,83100.0,Automatic,Petrol,1500.0,Sedan,White,Alexandria,Individual,No,2.0,Fair,9.0,345000,Yes
 CAR-50160,Hyundai,Tucson,2017,133300.0,Automatic,Petrol,2000.0,SUV,Silver,Cairo,Individual,No,2.0,Excellent,5.0,686000,No
 CAR-51365,Renault,Logan,2015,156000.0,Manual,Petrol,1600.0,Sedan,Grey,Cairo,Individual,No,3.0,Fair,12.0,154000,Yes
-CAR-50504,Renault,Logan,2024,19100.0,Mt,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Good,8.0,662000,No
+CAR-50504,Renault,Logan,2024,19100.0,Manual,Petrol,1600.0,Sedan,White,Cairo,Individual,No,1.0,Good,8.0,662000,No
 CAR-52203,MG,Zs,2018,124600.0,Automatic,Hybrid,1500.0,SUV,Grey,Banha,Individual,Yes,1.0,Fair,7.0,468000,No
 CAR-52259,Hyundai,Elantra,2023,22000.0,Automatic,Petrol,2000.0,Sedan,Grey,Alexandria,Individual,No,2.0,Good,6.0,1148000,No
 CAR-50884,Skoda,Octavia,2021,76300.0,Automatic,Petrol,1400.0,Sedan,Silver,Port Said,Individual,No,4.0,Fair,9.0,992000,No
@@ -2845,7 +2845,7 @@ CAR-52393,Kia,Cerato,2024,23500.0,Manual,Petrol,1600.0,Sedan,Silver,Cairo,Indivi
 CAR-52038,Nissan,Sunny,2019,130100.0,Automatic,Hybrid,1500.0,Sedan,Blue,Giza,Individual,No,2.0,Good,12.0,401000,No
 CAR-50726,Chevrolet,Optra,2020,98600.0,Automatic,Hybrid,1500.0,Sedan,White,Alexandria,Individual,No,1.0,Fair,7.0,340000,No
 CAR-52022,Kia,Cerato,2024,24600.0,Automatic,Hybrid,1600.0,Sedan,Silver,Cairo,Individual,Yes,2.0,Poor,7.0,758000,No
-CAR-52113,Renault,Logan,2017,122900.0,Mt,Petrol,1600.0,Sedan,Blue,Alexandria,Dealer,No,3.0,Excellent,11.0,253000,No
+CAR-52113,Renault,Logan,2017,122900.0,Manual,Petrol,1600.0,Sedan,Blue,Alexandria,Dealer,No,3.0,Excellent,11.0,253000,No
 CAR-50321,Fiat,Tipo,2025,10000.0,Manual,Hybrid,1600.0,Sedan,Grey,Alexandria,Individual,No,2.0,Good,0.0,897000,No
 CAR-51412,Fiat,Tipo,2017,122800.0,Manual,Petrol,1600.0,Sedan,White,Tanta,Unknown,No,3.0,Fair,13.0,216000,No
 CAR-52299,Nissan,Sunny,2016,139700.0,Automatic,Petrol,1500.0,Sedan,Silver,Suez,Dealer,No,3.0,Excellent,11.0,250000,No
@@ -2889,7 +2889,7 @@ CAR-51462,Renault,Logan,2023,35000.0,Automatic,Hybrid,1600.0,Sedan,White,Cairo,D
 CAR-52190,Mitsubishi,Lancer,2025,10800.0,Manual,Hybrid,1600.0,Sedan,Blue,Port Said,Dealer,No,2.0,Good,10.0,592000,Yes
 CAR-50393,Mitsubishi,Lancer,2022,65100.0,Manual,Petrol,1600.0,Sedan,Black,Giza,Dealer,No,4.0,Excellent,11.0,393000,Yes
 CAR-51883,Renault,Logan,2024,31500.0,Automatic,Petrol,1600.0,Sedan,Black,Alexandria,Individual,No,2.0,Excellent,7.0,645000,No
-CAR-52428,Nissan,Sunny,2015,112400.0,Mt,Petrol,1500.0,Sedan,White,Cairo,Dealer,No,2.0,Good,14.0,211000,Yes
+CAR-52428,Nissan,Sunny,2015,112400.0,Manual,Petrol,1500.0,Sedan,White,Cairo,Dealer,No,2.0,Good,14.0,211000,Yes
 CAR-50603,MG,Zs,2021,68800.0,Automatic,Petrol,1500.0,SUV,Black,Giza,Dealer,No,1.0,Excellent,20.0,856000,No
 CAR-51146,Kia,Cerato,2010,177400.0,Automatic,Petrol,1600.0,Sedan,Black,Suez,Individual,No,2.0,Fair,8.0,151000,Yes
 CAR-51486,Toyota,Corolla,2022,62600.0,Automatic,Hybrid,1800.0,Sedan,Silver,Suez,Dealer,Yes,2.0,Fair,13.0,1083000,Yes
