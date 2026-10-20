@@ -68,7 +68,7 @@ The cleaned data is explored in `Visualization.ipynb` (13 charts, most of them i
 
 ### 1. What do car prices look like?
 
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](images/newplot.png)
 
 - Prices are **right-skewed**: the median is about **0.55M EGP**, and most cars fall between **0.33M and 0.95M**.
 - About 4% of listings (115 cars) are above ~1.8M EGP. These are **real prices, not errors**: ~83% are Mercedes-Benz and BMW from 2020 or newer, so they were kept.
