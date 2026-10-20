@@ -88,7 +88,13 @@ The cleaned data is explored in `Visualization.ipynb` (13 charts, most of them i
 | ![Year vs Price](images/year_vs_price.png) | ![Price vs Mileage](images/price_vs_mileage.png) |
 
 - Price rises with the manufacturing year, and the increase gets much sharper from about **2014 onward**.
-- Higher mileage means a lower price. Two listings look like **data-entry errors**: a Fiat Tipo 2014 at **999,999 km** and a Renault Logan 2020 at **950,000 km**.
+- Higher mileage means a lower price (correlation ≈ **-0.55**). Almost all cars (~99%) are below **~300K km**.
+
+![Mileage vs Price with OLS Trendline](images/mileage_vs_price_trend.png)
+
+- Two listings look like **data-entry errors**: a Fiat Tipo 2014 at **999,999 km** and a Renault Logan 2020 at **950,000 km**.
+- The straight OLS line is a poor fit at high mileage: it **crosses zero at ~270K km**, so it predicts negative prices beyond that point (about **-0.4M EGP** at the highest real mileage of ~375K km). The line only reaches **-3M EGP** at 1M km because the two outliers stretch it.
+- Removing the mileage outliers (e.g., keeping < 500K km) is recommended before modeling.
 
 ### 3. Which brands are listed and how are they priced?
 
